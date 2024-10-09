@@ -1,0 +1,21 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de pacote
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Ignorar arquivos temporários e de log
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignorar arquivos de configuração
+*.env
